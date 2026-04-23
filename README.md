@@ -22,7 +22,3 @@ During the cross-dataset correlation analysis, a specific IP address was identif
 - Pandas & NumPy
 - Matplotlib & Seaborn (for data visualization)
 - Regular Expressions (Regex)
-
-## Team
-- Yahia Abulibdeh 
-- Mohammad Faris
